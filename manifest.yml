@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: garyprojectcomp1221
+  host: garyprojectcomp1221
+  disk_quota: 1024M
